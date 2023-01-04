@@ -1,5 +1,4 @@
 //Create a function named getListStudents that returns an array of objects.
-
 export default function getListStudents() {
   return [
     {
