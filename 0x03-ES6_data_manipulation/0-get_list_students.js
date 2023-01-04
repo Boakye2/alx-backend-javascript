@@ -1,6 +1,6 @@
 //Create a function named getListStudents that returns an array of objects.
 
-function getListStudents() {
+export default function getListStudents() {
   return [
     {
       firstName: 'Guillaume',
