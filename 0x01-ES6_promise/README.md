@@ -1,8 +1,5 @@
-<p>
-<img width="260" height="170" src="https://www.flaticon.com/svg/static/icons/svg/3352/3352382.svg" align="right" >
-</p>
 
-# :colombia: 0x0F. ES6 Promises
+# 0x0F. ES6 Promises
 
 - Promises (how, why, and what)
 - How to use the `then, resolve, catch` methods
